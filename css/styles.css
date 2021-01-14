@@ -194,6 +194,7 @@ box-shadow: 5px 10px black;
     width: 200px;
     position: sticky;
   }
+  
   .intro{
     padding-left: 1em;
     margin-bottom: 2em;
@@ -201,6 +202,10 @@ box-shadow: 5px 10px black;
 
   .icon{
     margin-bottom: 2em;
+  }
+  
+  .about{
+    text-align: center;
   }
 }
 
@@ -229,6 +234,5 @@ footer a:visited {
 }
 footer h6{
   text-align: center;
-
   color: white;
 }
